@@ -7,7 +7,7 @@ Version: 1400
 OSRelVer: 8.0
 FileSize: 66963899
 DirectFileLink: https://archive.org/download/ios-ipa-collection/Mini%20Metro%201.40.ipa
-IconRelPath: icons/mini_metro_1400.jpeg
+IconRelPath: icons/mini_metro_1400.png
 Genre: Games :: Simulation
 Description: 
 $start
@@ -19,7 +19,7 @@ Version: 2.11
 OSRelVer: 8.0
 FileSize: 81682740
 DirectFileLink: https://archive.org/download/Geometry_Dash_2.11_ios_8.0/Geometry_Dash_2.11_ios_8.0.ipa
-IconRelPath: icons/geometry_dash_2.11.jpg
+IconRelPath: icons/geometry_dash_2.11.png
 Genre: Games :: Arcade
 Description: 
 $start
